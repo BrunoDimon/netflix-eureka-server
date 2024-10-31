@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\Users\Bruno Dev\Documents\dev\crud\.metadata\.plugins\org.eclipse.jdt.core
+1571822070.index
+3392953061.index
+4128213613.index
+1865797976.index
+950546193.index
+3148238991.index
